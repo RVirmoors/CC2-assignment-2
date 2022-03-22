@@ -1,5 +1,5 @@
 # (Title)
-(Short description)
+(Short description here)
 
 ## (Installing)
 ...
@@ -36,7 +36,7 @@ _(if for some reason you'd prefer to keep your repo hidden from the public, you 
 
 ## Necessary elements
 
-1. This readme, filled in. Title, description, usage instructions, useful links. 
+1. This readme, filled in. Title, description, usage instructions, useful links.
 
     You may include images and even [animated gifs](https://www.screentogif.com/), or links to audio/video materials.
 
