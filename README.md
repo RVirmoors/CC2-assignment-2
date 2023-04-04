@@ -22,7 +22,7 @@ The submission process is as follows (adapted from [here](https://cs.anu.edu.au/
 
 1. *fork* this template to your own Github account
 
-![](assets/fork.gif)
+![forking instructions](assets/fork.gif)
 
 _(if for some reason you'd prefer to keep your repo hidden from the public, you can set it as Private from Settings - "Change visibility". You then need to add me as a collaborator, so I can have access.)_
 
